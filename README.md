@@ -5,7 +5,7 @@ In this project, I will be using  C++ to program PID controller, that controlls 
 PID stands for Proportional-Integral-Derivative, and it is used for correcing error and increasing the stabiity of a system. The PID controller is made of three components P, I and D. Each of which serve in decreasing the stearing angle error. In this project we were given the Cross Track Error(CTE), which represent the distance of the vehicle from the trajectory. 
 
 <p align="center">
-  <img width="460" height="300" src="https://www.gstatic.com/education/formulas2/397133473/en/pid_controller.svg">
+  <img width="460" height="300" src="https://thesoac.com/wp-content/uploads/2015/04/www.innov8tivedesigns.comblogwp-contentuploadsFigure-1-bf178c4e4a1a87fd7631e731828bd2b024bbd1a5.png">
 </p>
 
 - The  proportional component P,  minmize the error linearly with a constant factor Kp(It may overshot)
